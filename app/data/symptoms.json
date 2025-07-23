@@ -1,0 +1,7 @@
+{
+  "fever": ["Common Cold", "Flu", "COVID-19"],
+  "cough": ["Common Cold", "Flu", "Bronchitis"],
+  "headache": ["Migraine", "Tension Headache", "Sinusitis"],
+  "sore throat": ["Strep Throat", "Common Cold", "Flu"],
+  "fatigue": ["Anemia", "Thyroid Issues", "Sleep Deprivation"]
+} 
